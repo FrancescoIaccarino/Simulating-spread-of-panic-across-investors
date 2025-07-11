@@ -1,4 +1,4 @@
-# 😱 Investor Fear Goes Viral – Modeling Panic in TSLA During COVID-19
+# Investor Fear Goes Viral – Modeling Panic in TSLA During COVID-19
 
 This project explores the contagion of investor sentiment using epidemiological models applied to Tesla (TSLA) stock in early 2020. By treating fear as a transmissible phenomenon, we simulate how panic spread among investors during the COVID-19 outbreak using SIR, SIS, SIRS, and SEIR frameworks.
 
